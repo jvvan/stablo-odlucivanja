@@ -1,0 +1,2 @@
+modules = ["python-3.12"]
+run = "python primer1.py"
